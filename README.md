@@ -65,4 +65,11 @@ I have added article based on how the KNN algorithm operates and how it can be a
 * We could try to implement an algorithm more efficiently
 * we can add new features to an algorithm or experiment with different variations of the core idea
 
+### Week 06
 
+So far, we have covered all about Machine Learning, we have written an AI program based on regression and classification programs, we have learned about MSE, MAE, RMSE, R^2, and Confusion Matrix. In our last tutorial, we learned about Deep Learning and concepts based on Deep Learning.
+
+In this article, we are going to learn about CNN which is an efficient recognition algorithm that is widely used in pattern recognition and image processing. We will learn about the CNN model summary which includes Filter (KERNEL/ FEATURE DECODER), Stride, Convolution Layer, Pooling Layer and Flatten Layer.
+
+
+### Week 07
