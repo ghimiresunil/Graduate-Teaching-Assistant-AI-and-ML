@@ -42,7 +42,11 @@ Before moving to course "Articial Intelligence and Machine Learning", I have add
 
 Before starting tutorials on machine learning, I came with the idea of providing a brief definition of key terms used in Machine Learning. These key terms will be regularly used in our coming lectures, tutorials, and workshops on machine learning and will also be used in further higher courses.
 
-𝐀 𝐛𝐞𝐠𝐢𝐧𝐧𝐞𝐫’𝐬 𝐠𝐮𝐢𝐝𝐞 𝐨𝐧 𝐡𝐨𝐰 𝐭𝐨 𝐜𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐞 𝐏𝐫𝐞𝐜𝐢𝐬𝐢𝐨𝐧, 𝐑𝐞𝐜𝐚𝐥𝐥, 𝐅𝟏-𝐬𝐜𝐨𝐫𝐞 𝐟𝐨𝐫 𝐚 𝐦𝐮𝐥𝐭𝐢-𝐜𝐥𝐚𝐬𝐬 𝐜𝐥𝐚𝐬𝐬𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐩𝐫𝐨𝐛𝐥𝐞𝐦 
+𝐀 𝐛𝐞𝐠𝐢𝐧𝐧𝐞𝐫’𝐬 𝐠𝐮𝐢𝐝𝐞 𝐨𝐧 𝐡𝐨𝐰 𝐭𝐨 𝐜𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐞 𝐏𝐫𝐞𝐜𝐢𝐬𝐢𝐨𝐧, 𝐑𝐞𝐜𝐚𝐥𝐥, 𝐅𝟏-𝐬𝐜𝐨𝐫𝐞 𝐟𝐨𝐫 𝐚 𝐦𝐮𝐥𝐭𝐢-𝐜𝐥𝐚𝐬𝐬 𝐜𝐥𝐚𝐬𝐬𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐩𝐫𝐨𝐛𝐥𝐞𝐦 <br>
 _**VERY IMPORTANT**_ 😊😊
 
+### Week 03
 
+I am going to discuss Performance Metrics, and this time it will be Regression model metrics. As in my previous artcle, I have discussed Classification Metrics, this time its Regression. I am going to talk about the 5 most widely used Regression metrics:
+
+Similarly, I am going to cover concrete definition of Linear Regression and Logistics Regression.
