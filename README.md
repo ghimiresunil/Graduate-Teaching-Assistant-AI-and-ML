@@ -57,4 +57,12 @@ If you are building your own neural network, you will definitely need to underst
 
 Backpropagation is a commonly used technique for training neural network. There are many resources explaining the technique, but this article will explain backpropagation with concrete example in a very detailed colorful steps.
 
+### Implementation of K-Nearest Neighbors from scratch
+
+I have added article based on how the KNN algorithm operates and how it can be applied using Python. There are several different reasons why implementing algorithms from scratch can be useful:
+
+* It can help us to understand the inner works of an algorithm
+* We could try to implement an algorithm more efficiently
+* we can add new features to an algorithm or experiment with different variations of the core idea
+
 
