@@ -111,3 +111,7 @@ _**Happy Maths, Happy AI**_
 ### Final Exam Solution 
 
 Finally, I have added all the answers to the final exam question prepared by University(College). 
+
+That’s all.<br>
+You may be interested to read see yourself in Artificial Intelligence and Machine Learning.<br>
+Thanks for reading.<br>
