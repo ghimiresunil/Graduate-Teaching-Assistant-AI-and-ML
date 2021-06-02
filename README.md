@@ -38,6 +38,11 @@ Besides this, teaching students is an excellent way to develop my abilities. It 
 
 Before moving to course "Articial Intelligence and Machine Learning", I have added 3 articles based on **History of Artificial Intelligence**, **Introduction to Artificial Intelligence and Machine Learning**, and **Performance Metrics in Machine Learning Classification Model**. 
 
+### Week 02
 
+Before starting tutorials on machine learning, I came with the idea of providing a brief definition of key terms used in Machine Learning. These key terms will be regularly used in our coming lectures, tutorials, and workshops on machine learning and will also be used in further higher courses.
+
+𝐀 𝐛𝐞𝐠𝐢𝐧𝐧𝐞𝐫’𝐬 𝐠𝐮𝐢𝐝𝐞 𝐨𝐧 𝐡𝐨𝐰 𝐭𝐨 𝐜𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐞 𝐏𝐫𝐞𝐜𝐢𝐬𝐢𝐨𝐧, 𝐑𝐞𝐜𝐚𝐥𝐥, 𝐅𝟏-𝐬𝐜𝐨𝐫𝐞 𝐟𝐨𝐫 𝐚 𝐦𝐮𝐥𝐭𝐢-𝐜𝐥𝐚𝐬𝐬 𝐜𝐥𝐚𝐬𝐬𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐩𝐫𝐨𝐛𝐥𝐞𝐦 
+_**VERY IMPORTANT**_ 😊😊
 
 
