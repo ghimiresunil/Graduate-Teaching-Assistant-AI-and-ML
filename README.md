@@ -89,3 +89,7 @@ For the concrete definition of R^2 square and Karl Pearson Correlation Coefficie
 
 _** VERY IMPORTANT 😊😊 **_
 
+### Designed Mock Test Question Set (A, B) and added answer of Multiple Choice questions with proper explanation
+
+For a more concrete and detailed explanation, I have added answers to multiple-choice questions with the best explanation which helps all to learn more and gain more. 
+
