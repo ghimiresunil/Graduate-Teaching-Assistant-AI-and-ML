@@ -50,3 +50,11 @@ _**VERY IMPORTANT**_ 😊😊
 I am going to discuss Performance Metrics, and this time it will be Regression model metrics. As in my previous artcle, I have discussed Classification Metrics, this time its Regression. I am going to talk about the 5 most widely used Regression metrics:
 
 Similarly, I am going to cover concrete definition of Linear Regression and Logistics Regression.
+
+### Week 04 
+
+If you are building your own neural network, you will definitely need to understand how to train it. So, I have added step by step guide to understand how Back Propagation used in ANN model. 
+
+Backpropagation is a commonly used technique for training neural network. There are many resources explaining the technique, but this article will explain backpropagation with concrete example in a very detailed colorful steps.
+
+
