@@ -108,3 +108,6 @@ Just to add something to the original answer about eigenvectors and eigenvalues 
 
 _**Happy Maths, Happy AI**_
 
+### Final Exam Solution 
+
+Finally, I have added all the answers to the final exam question prepared by University(College). 
