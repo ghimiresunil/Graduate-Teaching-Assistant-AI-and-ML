@@ -32,5 +32,12 @@ GTA give me an opportunity to extend my knowledge and acquire new skills. These 
 Besides this, teaching students is an excellent way to develop my abilities. It helps me to consolidate my existing technical knowledge, gain knowledge in new topics and get valuable hands-on experience in teaching. This is a significant advantage. Undertaking the duties of a GTA adequately helps me prepare for a career as a daily learner, and provide me  with a strong foundation that can use to sell myself when applying to new job as Data Science developer.
 
 
+## Added several articles to learn more
+
+### Week 01
+
+Before moving to course "Articial Intelligence and Machine Learning", I have added 3 articles based on **History of Artificial Intelligence**, **Introduction to Artificial Intelligence and Machine Learning**, and **Performance Metrics in Machine Learning Classification Model**. 
+
+
 
 
