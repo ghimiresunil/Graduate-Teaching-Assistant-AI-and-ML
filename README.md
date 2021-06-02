@@ -78,4 +78,14 @@ Language is the most important tool of communication invented by human civilizat
 
 Natural Language Processing is, a form of artificial intelligence, all about trying to analyze and understand either written or spoken language and the context that it’s being used in. The ultimate objective of NLP is to read, decipher, understand, and make sense of the human languages in a manner that is valuable.
 
-In today’s session, I will covering a basic course on Natural Language Processing.
+In this session, I will covering a basic course on Natural Language Processing.
+
+### R^2 and Karl Pearson Correlation Coefficient 
+
+For the concrete definition of R^2 square and Karl Pearson Correlation Coefficient, I have added math behind R^2 and Karl Pearson Correlation Coefficient and its calculation. 
+
+* R-squared will give you an estimate of the relationship between movements of a dependent variable based on an independent variable's movements.
+* Pearson's correlation coefficient is the test statistics that measures the statistical relationship, or association, between two continuous variables.
+
+_** VERY IMPORTANT 😊😊 **_
+
