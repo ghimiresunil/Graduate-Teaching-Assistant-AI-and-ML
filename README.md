@@ -73,3 +73,9 @@ In this article, we are going to learn about CNN which is an efficient recogniti
 
 
 ### Week 07
+
+Language is the most important tool of communication invented by human civilization. It is either spoken or written, consisting of the use of words in a structured and conventional way. Language helps us share our thoughts, and understand others.
+
+Natural Language Processing is, a form of artificial intelligence, all about trying to analyze and understand either written or spoken language and the context that it’s being used in. The ultimate objective of NLP is to read, decipher, understand, and make sense of the human languages in a manner that is valuable.
+
+In today’s session, I will covering a basic course on Natural Language Processing.
